@@ -1,0 +1,5 @@
+cell_counts.db
+outputs/
+__pycache__/
+.venv/
+.DS_Store
